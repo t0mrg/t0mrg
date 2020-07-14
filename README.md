@@ -8,7 +8,7 @@ We are always interested in hearing from potential collaborators or from talente
 
 📫 [Get in touch!](https://www.bris.ac.uk/contact/person/getDetails?personKey=f7rKQdp39cRsRoJTnrfZieha0e3t2j)
 
-### Software projects
+### Selected software projects
 
 <ul>
   <li><a href="http://www.epigraphdb.org/">EpiGraphDB</a> integrates epidemiological and biomedical data to support mechanistic and causal inference</li>
