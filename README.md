@@ -10,10 +10,10 @@ We are always interested in hearing from potential collaborators or from talente
 
 ### Software projects
 
-  <div><a href="http://www.epigraphdb.org/">EpiGraphDB<img src="/media-library/sites/integrative-epidemiology/images/software/epigraphdb.png" alt="EpiGraphDB" width="232" height="146" /></a></div>
-  <div><a href="https://gwas.mrcieu.ac.uk/">IEU GWAS database<img src="/media-library/sites/integrative-epidemiology/images/software/ieugwas.png" alt="IEU GWAS database" width="1356" height="819" /></a></div> 
-  <div><a href="http://www.mrbase.org/">MR-Base<img src="/media-library/sites/integrative-epidemiology/images/software/mrbase.png" alt="MR-Base screenshot" width="232" height="146" /></a></div>
-  <div><a href="http://ldsc.broadinstitute.org/">LD Hub<img src="/media-library/sites/integrative-epidemiology/images/software/ldhub.png" alt="LD Hub screenshot" width="232" height="146" /></a></div>
-  <div><a href="http://melodi.biocompute.org.uk/">MELODI<img src="/media-library/sites/integrative-epidemiology/images/software/melodi.png" alt="MELODI screenshot" width="232" height="146" /></a></div>
-  <div><a href="http://fathmm.biocompute.org.uk/">FATHMM<img src="/media-library/sites/integrative-epidemiology/images/software/fathmm.png" alt="FATHMM screenshot" width="232" height="146" /></a></div>
+  <div><a href="http://www.epigraphdb.org/">EpiGraphDB<img src="https://www.bristol.ac.uk/media-library/sites/integrative-epidemiology/images/software/epigraphdb.png" alt="EpiGraphDB" width="232" height="146" /></a></div>
+  <div><a href="https://gwas.mrcieu.ac.uk/">IEU GWAS database<img src="https://www.bristol.ac.uk/media-library/sites/integrative-epidemiology/images/software/ieugwas.png" alt="IEU GWAS database" width="1356" height="819" /></a></div> 
+  <div><a href="http://www.mrbase.org/">MR-Base<img src="https://www.bristol.ac.uk/media-library/sites/integrative-epidemiology/images/software/mrbase.png" alt="MR-Base screenshot" width="232" height="146" /></a></div>
+  <div><a href="http://ldsc.broadinstitute.org/">LD Hub<img src="https://www.bristol.ac.uk/media-library/sites/integrative-epidemiology/images/software/ldhub.png" alt="LD Hub screenshot" width="232" height="146" /></a></div>
+  <div><a href="http://melodi.biocompute.org.uk/">MELODI<img src="https://www.bristol.ac.uk/media-library/sites/integrative-epidemiology/images/software/melodi.png" alt="MELODI screenshot" width="232" height="146" /></a></div>
+  <div><a href="http://fathmm.biocompute.org.uk/">FATHMM<img src="https://www.bristol.ac.uk/media-library/sites/integrative-epidemiology/images/software/fathmm.png" alt="FATHMM screenshot" width="232" height="146" /></a></div>
 
