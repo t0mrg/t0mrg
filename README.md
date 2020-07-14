@@ -11,7 +11,7 @@ We are always interested in hearing from potential collaborators or from talente
 ### Selected software projects
 
 <ul>
-  <li><a href="http://www.epigraphdb.org/">EpiGraphDB</a> integrates epidemiological and biomedical data to support mechanistic and causal inference</li>
+  <li><a href="http://www.epigraphdb.org/">EpiGraphDB</a> integrates epidemiological and biomedical data to support mechanistic and causal inference. <a href=""><img src="http://i.imgur.com/0o48UoR.png"></a></li>
   <li><a href="https://gwas.mrcieu.ac.uk/">IEU OpenGWAS database</a> contains thousands of publicly available GWAS for download or use in MR-Base</li> 
   <li><a href="http://www.mrbase.org/">MR-Base</a> enables online Mendelian randomization analysis using a comprehensive manually curated database of GWAS studies.</li>
   <li><a href="http://ldsc.broadinstitute.org/">LD Hub</a> supports online LD score regression analysis using a comprehensive manually curated database of GWAS studies.</li>
