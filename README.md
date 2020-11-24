@@ -10,7 +10,7 @@ We are always interested in hearing from potential collaborators or from talente
 
 ### Selected software projects
 
-The following software platforms have been developed by members of my research group and collaborators. Most are hosted on the <a href="https://github.com/MRCIEU/">MRC IEU GitHub organisation <img src="http://i.imgur.com/9I6NRUm.png"></a>.
+The following software platforms have been developed by members of my research group, others within the MRC IEU and our collaborators. Most are hosted on the <a href="https://github.com/MRCIEU/">MRC IEU GitHub organisation <img src="http://i.imgur.com/9I6NRUm.png"></a>.
 
 <ul>
   <li><a href="http://www.epigraphdb.org/">EpiGraphDB</a> integrates epidemiological and biomedical data to support mechanistic and causal inference. </li>
