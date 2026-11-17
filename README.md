@@ -32,7 +32,9 @@ The following software platforms have been developed by members of my research g
 The following productivity tools were developed using agentic coding (with quite minimal direction) to address gaps in my own toolkit, and are shared here in case useful.  
 
 * [SwiftReveal](https://github.com/t0mrg/swiftreveal) is a Mac OS slide presentation editor that can be used to create, edit and present slides, and export these in [Reveal.js](https://revealjs.com) and PDF format. The editor is intentionally constrained to maintain clean and consistent layouts (allowing you to focus on content), but does allow quite powerful CSS styling/themes. For people without Mac OS, you can access most of the functionality via an offline (progressive) web application [PoWAReveal](https://github.com/t0mrg/PoWAReveal).
-  * [Launch the webapp](https://github.biocompute.org.uk/PoWAReveal/).
-* [MarimoDesktop](https://github.com/t0mrg/MarimoDesktop) is a Mac OS Swift app that wraps the excellent [Marimo notebook](https://marimo.io). The main benefit over just running Marimo directly from the command line is the built-in environment management (including package installations/removals, etc) and version control. Otherwise, all the power comes from Marimo itself. 
+  * [Launch the PoWAReveal webapp](https://github.biocompute.org.uk/PoWAReveal/).
+* [MarimoDesktop](https://github.com/t0mrg/MarimoDesktop) is a Mac OS Swift app that wraps the excellent [Marimo notebook](https://marimo.io). The main benefit over just running Marimo directly from the command line is the built-in environment management (including package installations/removals, etc) and version control. Otherwise, all the power comes from Marimo itself.
+* [QAgenda](https://github.com/t0mrg/QAgenda) is a lightweight progressive web application that helps create a meeting agenda/programme (intended for full-day or multi-day meetings/workshops). This is intended to reduce the work involved in making changes that impact all later sessions (e.g. moving items earlier/later, changing duration of sessions). 
+  * [Launch the QAgenda webapp](https://github.biocompute.org.uk/QAgenda/)
 
 
